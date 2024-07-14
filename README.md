@@ -1,2 +1,2 @@
 # QR-Enchanter
-a QR code that magically turns into a 3D anime-style artwork when scanned.
+An innovative site that transforms QR codes into 3D anime-style artworks using AI. The app blends user prompts with web URLs to create enchanting QR code masterpieces.
